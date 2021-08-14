@@ -1,0 +1,16 @@
+footer {
+    width: 100%;
+    height: 50%;
+    background-color: black;
+}
+footer > div.section {
+    color: #fff;
+    justify-content: center;
+}
+footer > p {
+    color: #fff;
+}
+
+footer >a.top > i  {
+    margin: right;
+}
